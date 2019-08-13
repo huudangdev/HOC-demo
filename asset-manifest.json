@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HOC-demo/static/css/main.9d2b0661.chunk.css",
+    "main.js": "/HOC-demo/static/js/main.9f0aaa2a.chunk.js",
+    "main.js.map": "/HOC-demo/static/js/main.9f0aaa2a.chunk.js.map",
+    "runtime~main.js": "/HOC-demo/static/js/runtime~main.813da4ce.js",
+    "runtime~main.js.map": "/HOC-demo/static/js/runtime~main.813da4ce.js.map",
+    "static/js/2.4d0222a8.chunk.js": "/HOC-demo/static/js/2.4d0222a8.chunk.js",
+    "static/js/2.4d0222a8.chunk.js.map": "/HOC-demo/static/js/2.4d0222a8.chunk.js.map",
+    "index.html": "/HOC-demo/index.html",
+    "precache-manifest.bf6e576621b688cf034b2d3f7147e368.js": "/HOC-demo/precache-manifest.bf6e576621b688cf034b2d3f7147e368.js",
+    "service-worker.js": "/HOC-demo/service-worker.js",
+    "static/css/main.9d2b0661.chunk.css.map": "/HOC-demo/static/css/main.9d2b0661.chunk.css.map"
+  }
+}
